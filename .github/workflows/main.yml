@@ -4,6 +4,6 @@ on: push
 jobs:
   runs-on: ubuntu-latest
   steps:
-    -name: hello
-     run: echo " welcome to my world of github actions"
+    - name: hello
+      run: echo " welcome to my world of github actions"
   
