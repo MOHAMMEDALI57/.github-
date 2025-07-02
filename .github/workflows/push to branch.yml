@@ -1,4 +1,4 @@
-name: push 2 branch
+name: push to branch
 on: 
   push:
     branches:
