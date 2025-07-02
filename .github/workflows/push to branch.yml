@@ -2,7 +2,7 @@ name: push 2 branch
 on: 
   push:
     branches:
-      -dev
+      -main
 
 jobs:
   job: 
