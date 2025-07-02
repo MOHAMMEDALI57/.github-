@@ -11,5 +11,5 @@ jobs:
      - name: push to branch intiated
        run: echo " welcome to my world of github actions"
      - name: push to branch
-       run: echo " push to main branch success"
+       run: echo " push to main branch succes"
   
