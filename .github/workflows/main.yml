@@ -2,9 +2,11 @@ name: my first
 on: push
 
 jobs:
-  job1: 
+  job: 
     runs-on: ubuntu-latest
     steps:
      - name: hello
        run: echo " welcome to my world of github actions"
+     - name: hello 2
+       run: echo " welcome to my world of github actions second"
   
