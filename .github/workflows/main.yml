@@ -2,7 +2,7 @@ name: my first
 on: push
 
 jobs:
-job1:
+job1: echo
   runs-on: ubuntu-latest
   steps:
     - name: hello
